@@ -25,11 +25,27 @@
 > [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320)
 > ([@coderPatros' wife](https://twitter.com/coderPatros))
 
-OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security
+[OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security
 trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the
 entire
 [OWASP Top Ten](https://owasp.org/www-project-top-ten) along with many other security flaws found in real-world
-applications!
+applications!] Here's what I've uncovered so far:
+
+## 🧠 Project Outline
+
+A modern, minimal checklist to guide progress:
+
+1. [ ] **Item One** — _Add details here_
+2. [ ] **Item Two** — _Add details here_
+3. [ ] **Item Three** — _Add details here_
+4. [ ] **Item Four** — _Add details here_
+5. [ ] **Item Five** — _Add details here_
+6. [ ] **Item Six** — _Add details here_
+7. [ ] **Item Seven** — _Add details here_
+8. [ ] **Item Eight** — _Add details here_
+9. [ ] **Item Nine** — _Add details here_
+10. [ ] **Item Ten** — _Add details here_
+
 
 ![Juice Shop Screenshot Slideshow](screenshots/slideshow.gif)
 
