@@ -33,18 +33,17 @@ applications!] Here's what I've uncovered so far:
 
 ## 🧠 Project Outline
 
-A modern, minimal checklist to guide progress:
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
 
-1. [ ] **Item One** — _Add details here_
-2. [ ] **Item Two** — _Add details here_
-3. [ ] **Item Three** — _Add details here_
-4. [ ] **Item Four** — _Add details here_
-5. [ ] **Item Five** — _Add details here_
-6. [ ] **Item Six** — _Add details here_
-7. [ ] **Item Seven** — _Add details here_
-8. [ ] **Item Eight** — _Add details here_
-9. [ ] **Item Nine** — _Add details here_
-10. [ ] **Item Ten** — _Add details here_
 
 
 ![Juice Shop Screenshot Slideshow](screenshots/slideshow.gif)
