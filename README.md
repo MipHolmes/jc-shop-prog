@@ -10,10 +10,10 @@ applications!]
 
 ## ⚡ (3) of 171 
 
-1) Confidential Document: Access a confidential document.
-2) Score Board: Find the carefully hidden 'Score Board' page.
-3) Error Handling: Provoke an error that is neither very gracefully nor consistently handled.
-4)
+1) [Sensitive Data Exposure] Confidential Document: Access a confidential document.
+2) [Misc] Score Board: Find the carefully hidden 'Score Board' page.
+3) [Security Misconfiguration] Error Handling: Provoke an error that is neither very gracefully nor consistently handled.
+4) [Improper Input Validation] Payback Time: Place an order that makes you rich.
 5)
 6)
 7)
